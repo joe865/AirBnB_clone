@@ -1,0 +1,3 @@
+git log --format='%aN <%aE>' | sort -uf
+
+git shortlog -sne
